@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c59dd24b-ed49-4fcd-8eeb-bac86478ef65" name="Changes" comment="" />
+    <list default="true" id="c59dd24b-ed49-4fcd-8eeb-bac86478ef65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/about/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/analytics/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/users/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/users/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/hello.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +39,17 @@
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "inlay.hints",
     "ts.external.directory.path": "/Users/braveboy/WebstormProjects/nextjs_prj/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,12 +64,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772412871119</updated>
-      <workItem from="1772412872149" duration="1184000" />
+      <workItem from="1772412872149" duration="6217000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
